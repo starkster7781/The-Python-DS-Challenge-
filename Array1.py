@@ -14,5 +14,4 @@
 
 #Sample Output
 #[-10.  -8.   4.   3.   2.   1.]
-
 #Write your code below 
